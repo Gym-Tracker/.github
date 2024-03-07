@@ -12,6 +12,6 @@
 
 ### Web app
 
-- Typescript
+- TypeScript
 - React
 - Amazon S3
