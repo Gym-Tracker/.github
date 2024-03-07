@@ -1,5 +1,11 @@
 # Requirements
 
+## Paint points
+
+- Manually entering all 5-3-1 weights into Hevy every week
+
+## Requirements
+
 - Enter 1 rep max for squat, bench, deadlift and overhead press
 - Have training max calculated
 - Have weights calculated for a cycle of 3 sessions per week for 3 weeks
