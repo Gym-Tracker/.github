@@ -1,10 +1,10 @@
 # Development Log
 
-- Requirements analysis ([[Requirements]])
+- Requirements analysis ([requirements](https://github.com/Gym-Tracker/.github/blob/main/Requirements.md))
 - Decided on type of database - SQL or NoSQL
-- Picked [[PostgreSQL]]
+- Picked PostgreSQL
 - Designed schema
-- Looked into options for [[Backend Database]]
+- Looked into options for backend database
 - Created Amazon RDS Postgres database
 
 ---
