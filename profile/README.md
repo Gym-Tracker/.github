@@ -14,4 +14,4 @@
 
 - Typescript
 - React
-- Amazon Amplify
+- Amazon S3
